@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: inline-block;
+  font-size: large;
+  background-color: black;
+  color: white;
+  margin-top: 5em;
+}
+
+.App-header > h2 {
+  margin: 0;
+}
