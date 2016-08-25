@@ -1,3 +1,12 @@
+# Pridwen
+
+This is a boilerpate we are working on for our own project(It's a student management system [check it out](http://altusis.sadafnoor.com/)). We used create-react-app and ejected it so for the most part the following documentation is form that project and is being modified.
+
+### Checklist
+* Add mocha, chai and jsdom
+* Add redux-cli for scaffolding 
+
+
 ## Folder Structure
 
 After creation, your project should look like this:
